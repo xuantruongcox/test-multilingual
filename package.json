@@ -15,7 +15,10 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "@kontent-ai/gatsby-source": "^10.0.0",
+    "dotenv": "^16.0.3",
     "gatsby": "^5.8.0",
+    "gatsby-plugin-i18n": "^1.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
